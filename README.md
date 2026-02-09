@@ -139,7 +139,7 @@ models/README.md
 ## Repository Structure
 
 ```
-GENESIS-AI-Generated-Image-Detector/
+AI-Generated-Image-Detector/
 ├── README.md                  # Project overview & training details
 ├── notebooks/
 │   ├── resnet34-globalfft-v1-training.ipynb
