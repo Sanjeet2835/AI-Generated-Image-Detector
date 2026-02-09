@@ -1,0 +1,76 @@
+
+Generator: imagenet_ai_0424_wukong
+              precision    recall  f1-score   support
+
+           0       0.88      0.94      0.91       500
+           1       0.93      0.87      0.90       500
+
+    accuracy                           0.90      1000
+   macro avg       0.91      0.90      0.90      1000
+weighted avg       0.91      0.90      0.90      1000
+
+
+Generator: imagenet_glide
+              precision    recall  f1-score   support
+
+           0       1.00      0.90      0.95       500
+           1       0.91      1.00      0.95       500
+
+    accuracy                           0.95      1000
+   macro avg       0.96      0.95      0.95      1000
+weighted avg       0.96      0.95      0.95      1000
+
+
+Generator: imagenet_ai_0419_biggan
+              precision    recall  f1-score   support
+
+           0       1.00      0.94      0.97       500
+           1       0.94      1.00      0.97       500
+
+    accuracy                           0.97      1000
+   macro avg       0.97      0.97      0.97      1000
+weighted avg       0.97      0.97      0.97      1000
+
+
+Generator: imagenet_ai_0419_vqdm
+              precision    recall  f1-score   support
+
+           0       0.94      0.91      0.93       500
+           1       0.92      0.94      0.93       500
+
+    accuracy                           0.93      1000
+   macro avg       0.93      0.93      0.93      1000
+weighted avg       0.93      0.93      0.93      1000
+
+
+Generator: imagenet_midjourney
+              precision    recall  f1-score   support
+
+           0       0.78      0.91      0.84       500
+           1       0.89      0.74      0.81       500
+
+    accuracy                           0.82      1000
+   macro avg       0.83      0.82      0.82      1000
+weighted avg       0.83      0.82      0.82      1000
+
+
+Generator: imagenet_ai_0424_sdv5
+              precision    recall  f1-score   support
+
+           0       0.94      0.92      0.93       500
+           1       0.92      0.94      0.93       500
+
+    accuracy                           0.93      1000
+   macro avg       0.93      0.93      0.93      1000
+weighted avg       0.93      0.93      0.93      1000
+
+
+Generator: imagenet_ai_0508_adm
+              precision    recall  f1-score   support
+
+           0       0.95      0.91      0.93       500
+           1       0.92      0.96      0.94       500
+
+    accuracy                           0.93      1000
+   macro avg       0.93      0.93      0.93      1000
+weighted avg       0.93      0.93      0.93      1000
